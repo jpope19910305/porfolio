@@ -93,10 +93,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": " covid Tracker",
+        "category": "React js and covid API",
+        "image": "covid.jpeg",
+        "url": "https://covidtracker91.netlify.app/"
       },
       {
         "title": "Simple planet site page",
