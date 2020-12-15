@@ -105,22 +105,22 @@
         "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "3D shoe animation",
+        "category": "3D animation with HTML and CSS",
+        "image": "3d.jpeg",
+        "url": "https://marleyshoe.netlify.app/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "Ecommerce",
+        "category": "Ecommerce built with Javascript",
+        "image": "ecommerce.jpeg",
+        "url": "https://ecommerce91.netlify.app/"
       },
       {
         "title": "Netflix Clone",
         "category": "Facebook Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "url": "https://netflix-clone91.netlify.app/"
       }
     ]
   },
