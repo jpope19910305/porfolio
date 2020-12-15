@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Jerran Pope",
-    "occupation": "Software Engineer && That Guy",
+    "occupation": "Software Engineer",
     "description": "Software Engineer by Day, Founder(jptechservices) && Freelancer by Night. #noSleep",
     "image": "uglyNigga.jpg",
-    "bio": "My name is Jerran Pope and just like Kanye I am a GOD. ",
+    "bio": "My name is Jerran Pope want to reach my goal to become a software engineer. ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "jerran72@gmail.com",
     "phone": "+1 419-367-9664",
@@ -54,13 +54,13 @@
         "company": "MEDsys",
         "title": "Web development Team Member ",
         "years": "April 2020 - Present",
-        "description": "Debug and fix webapp"
+        "description": "Design, develop and sustain debug scripts and diagnostic software. Reduce scope of problem and develop code to illustrate the simplest failing case to further help with root cause."
       },
       {
         "company": "IPAYX",
-        "title": "Software Tester",
-        "years": "Nov 2015 - Sept 2016",
-        "description": "Talend Big Data MySQL"
+        "title": "Talend/ MYSQL database",
+        "years": "Nov 2016 - Sept 2017",
+        "description": "Talend developer works with enterprise and product architects, program owners, and engineers to bring big data projects into production. Responsibilities include designing, developing, and documenting Talend ETL processes, technical architecture, data pipelines, and performance scaling using tools to integrate Talend data and ensure data quality in a big data environment. You administer Talend software for large-scale data integration and advise and support each client along the way. Other duties include informing source system owners of any data quality problems, performing data requirements analyses, assisting with data flow, data mapping, and more. "
       }
     ],
     "skills": [
