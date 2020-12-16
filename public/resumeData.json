@@ -99,10 +99,10 @@
         "url": "https://covidtracker91.netlify.app/"
       },
       {
-        "title": "Simple planet site page",
-        "category": "animation CSS",
-        "image": "planets.jpeg",
-        "url": "https://planets91.netlify.app/"
+        "title": "Simple chat application Node.js",
+        "category": "Node.js",
+        "image": "chat.jpeg",
+        "url": "https://simplechat91.herokuapp.com/"
       },
       {
         "title": "3D shoe animation",
